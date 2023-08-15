@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "yes"
+    "url": "https://github.com/JRH89/npm-ui"
   },
   "author": "Jared Hooker",
   "license": "ISC"
