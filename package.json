@@ -1,0 +1,15 @@
+{
+  "name": "npm-ui",
+  "version": "1.0.0",
+  "description": "UI component library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "author": "Jared Hooker",
+  "license": "ISC"
+}
